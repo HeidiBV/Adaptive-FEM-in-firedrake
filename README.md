@@ -28,3 +28,6 @@ The error in the energy norm and the error in the a posteriori norm have the sam
 
 <img src="img/fd_sol3.gif">
 
+
+
+
